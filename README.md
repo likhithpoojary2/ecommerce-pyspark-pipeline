@@ -149,16 +149,8 @@ Due to local environment limitations (Hadoop dependencies on Windows), the PySpa
 
 ---
 
-## Resume Highlights
-
-* Developed and optimized PySpark ETL pipelines
-* Processed large datasets in a Databricks distributed environment
-* Ensured data quality through validation and cleansing
-* Built an end-to-end data analytics solution with visualization
-
----
 
 ## Author
 
 Your Name
-GitHub / LinkedIn Profile
+(https://github.com/likhithpoojary2/)
