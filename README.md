@@ -83,11 +83,23 @@ Features:
 
 ### Databricks Processing
 
-(Add screenshots of raw data, transformations, and SQL outputs)
+<img width="1376" height="666" alt="image" src="https://github.com/user-attachments/assets/ea42f834-ea1e-40a8-8d37-b79fa796d57a" />
+
+<img width="1360" height="727" alt="image" src="https://github.com/user-attachments/assets/d82838f3-151b-4ad7-a537-fbea660d3f0b" />
+
+<img width="1393" height="756" alt="image" src="https://github.com/user-attachments/assets/eff290a2-adb1-409c-a992-f55abd2be3fa" />
+
+<img width="1400" height="557" alt="image" src="https://github.com/user-attachments/assets/d26e112f-c840-4899-a9dc-4cd460e3c1b5" />
+
+<img width="1411" height="581" alt="image" src="https://github.com/user-attachments/assets/6ade16b7-ebcf-4a67-a1bc-0f80e657fb98" />
+
+
+
 
 ### Streamlit Dashboard
 
-(Add dashboard screenshots)
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/92128eb1-2622-4aad-9f0c-d4029bbce2b4" />
+
 
 ---
 
